@@ -23,7 +23,7 @@ const omid = {
   location: "Iran 🇮🇷",
   currentlyLearning: "React ⚛️",
   funFact: "Turns coffee ☕ into clean, responsive UI",
-  motto: "Code it once, code it right.,
+  motto: "Code it once, code it right.",
   myHobby: "Watching series and anime",
   status: 403 
 "
