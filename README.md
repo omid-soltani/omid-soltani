@@ -63,12 +63,21 @@ const omid = {
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=omid-soltani&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omid-soltani&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" />
+  <img
+    height="165"
+    src="https://github-readme-stats.vercel.app/api?username=omid-soltani&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117"
+  />
+  <img
+    height="165"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=omid-soltani&layout=compact&theme=radical&hide_border=true&bg_color=0D1117"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?username=omid-soltani&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak" />
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=omid-soltani&theme=radical&hide_border=true&background=0D1117"
+    alt="GitHub Streak"
+  />
 </p>
 
 <p align="center">
