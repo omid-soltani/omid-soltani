@@ -65,7 +65,7 @@ const omid = {
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=omid-soltani&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?username=omid-soltani&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak" />
 </p>
 
 <p align="center">
